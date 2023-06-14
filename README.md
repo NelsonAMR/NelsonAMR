@@ -20,7 +20,6 @@
 </p>
 
 <br/>
-<br/>
 
 <a href="https://github.com/SALVADORPOETA">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NelsonAMR&count_private=true&theme=buefy&show_icons=true" />
