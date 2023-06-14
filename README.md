@@ -19,6 +19,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<br/>
+<br/>
+
 <a href="https://github.com/SALVADORPOETA">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NelsonAMR&count_private=true&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NelsonAMR&theme=buefy&layout=compact" />
