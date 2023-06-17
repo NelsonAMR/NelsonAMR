@@ -24,7 +24,7 @@
 
 <a href="https://github.com/NelsonAMR">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NelsonAMR&count_private=true&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NelsonAMR&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonAMR&langs_count=6&theme=dark&layout=compact&hide=pug" />
 </a>
 
 
