@@ -19,10 +19,3 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<br/>
-
-<a href="https://github.com/NelsonAMR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonAMR&langs_count=6&theme=dark&layout=compact&hide=pug" />
-</a>
-
