@@ -25,5 +25,4 @@
 <a href="https://github.com/NelsonAMR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonAMR&langs_count=6&theme=dark&layout=compact&hide=pug" />
 </a>
-  
 
